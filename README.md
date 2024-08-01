@@ -41,3 +41,4 @@ GFI index, ROUGE-1, ROUGE-2, ROUGE-L and BertScore.
 The outcome shows that our BART-based SUSI model performs
 better than other models thereby signifying great strides towards
 simplifying legal documents.
+#### Dataset : Refer to this repository for the  MILDSum dataset https://github.com/Law-AI/MILDSum
